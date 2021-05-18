@@ -1,0 +1,9 @@
+{
+	"ip":"fishysmp.strangled.net",
+	"port": 25710,
+	"name": "Dream",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register [neelsohum] [neelsohum]",
+	"login-cmd":"/login [neelsohum]"
+}
